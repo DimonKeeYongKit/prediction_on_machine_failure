@@ -1,4 +1,4 @@
-# prediction_on_machine_failure
+# Prediction on Machine Failure
 
 Hotayi electronics is an electronic manufacturing company based in Malaysia that provides
 such services like designing, assembling, and testing which are high value added services and
